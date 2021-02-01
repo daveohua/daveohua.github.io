@@ -16,7 +16,8 @@
 title: David Ohuabunwa
 email: daveohua@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
-        linguistics and other nerdy stuff
+        "linguistics and other nerdy stuff"
+subtitle: "linguistics and other nerdy stuff"
 github_username: daveohua
 minimal_mistakes_skin: dark
 repository: daveohua/daveohua.github.io
@@ -75,15 +76,9 @@ author:
 
 footer:
   links:
-    - label: "Curriculum Vitae"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://qoto.org/@daveohua"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/daveohua"
+#    - label: ""
+#    - icon: "fas fa-fw fa-link"
+#    - url: "https://"
 
 defaults:
   # _posts
